@@ -1,0 +1,15 @@
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+F:\workspace\bootcamp-gft\App-cadastro-series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
